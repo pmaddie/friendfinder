@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friends",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmaddie/friendfinder.git"
+  },
+  "keywords": [
+    "friends"
+  ],
+  "author": "maddie prusak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmaddie/friendfinder/issues"
+  },
+  "homepage": "https://github.com/pmaddie/friendfinder#readme"
+}
