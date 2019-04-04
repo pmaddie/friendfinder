@@ -27,6 +27,62 @@ var friendly = [
         '3',
         '4',
         '4' ]
+    },
+    {
+        name: "Your Dad",
+        photo: "https://pixel.nymag.com/imgs/daily/intelligencer/2019/04/01/01-model-dad.w700.h700.jpg",
+        scores: ['1', 
+        '4', 
+        '3', 
+        '5', 
+        '2', 
+        '1', 
+        '3',
+        '3',
+        '1',
+        '5']
+    },
+    {
+        name: "Your Mom",
+        photo: "https://www.bemidjipioneer.com/sites/default/files/styles/16x9_620/public/fieldimages/1/0108/1jh4foxeh9i8ld3xlcfbzdmmbrjl5ivkj.jpg?itok=tsiyZ3Q3",
+        scores: ['3',
+        '4',
+        '1',
+        '5',
+        '2',
+        '1',
+        '4',
+        '3',
+        '2',
+        '1']
+    },
+    {
+        name: "Your Dog",
+        photo: "https://thenypost.files.wordpress.com/2018/05/180516-woman-mauled-by-angry-wiener-dogs-feature.jpg?quality=90&strip=all&w=618&h=410&crop=1",
+        scores: ['1',
+        '5',
+        '2',
+        '3',
+        '2',
+        '1',
+        '5',
+        '1',
+        '4',
+        '5']
+    },
+    {
+        name: "BlueFace",
+        photo: "https://image-ticketfly.imgix.net/00/03/11/75/60-og.jpg?w=500&h=500",
+        scores: ['3',
+        '1',
+        '5',
+        '2',
+        '1',
+        '5',
+        '1',
+        '2',
+        '5',
+        '3']
     }
  ];
  
