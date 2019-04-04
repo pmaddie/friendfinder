@@ -34,3 +34,15 @@
 * Once the closest match has been determined, it will display the result back to the user in the form of a modal pop-up.
 
 * The result will display both the name and picture of the closest match. 
+
+---------------------------------------------------------------------------------------------------
+
+
+#please see images/GIFs below for preview of App.
+
+
+<img width="1440" alt="ff" src="https://user-images.githubusercontent.com/46291047/55590810-f516b280-5701-11e9-8752-e7085865ccc0.png">
+
+
+![daddy](https://user-images.githubusercontent.com/46291047/55590714-a79a4580-5701-11e9-8e9a-cd6b4cc8fc70.gif)
+
